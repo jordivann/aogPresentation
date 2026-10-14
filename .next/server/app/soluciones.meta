@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/soluciones/layout,_N_T_/soluciones/page,_N_T_/soluciones"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/soluciones/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1402b84c69d480c91a5cddcf28b23e5fbdc94aca35af64f59ea94655aa115f67/$/soluciones",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/soluciones/page"
+    },
+    "isFallback": false
+  }
+}

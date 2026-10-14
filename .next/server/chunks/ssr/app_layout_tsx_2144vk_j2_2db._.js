@@ -1,0 +1,3 @@
+module.exports=[33290,a=>{"use strict";var b=a.i(7997),c=a.i(10156);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"es",children:(0,b.jsxs)("body",{children:[(0,b.jsx)(c.i,{}),(0,b.jsx)("main",{children:a}),(0,b.jsx)(c.z,{})]})})},"metadata",0,{title:{default:"Soluciones industriales | AOG Patagonia 2026",template:"%s | Soluciones industriales"},description:"Infraestructura eléctrica, materiales reciclados y desarrollo de soluciones industriales a medida.",robots:{index:!0,follow:!0}}])},70864,function(a){a.n(a.i(33290))}];
+
+//# sourceMappingURL=app_layout_tsx_2144vk_j2_2db._.js.map

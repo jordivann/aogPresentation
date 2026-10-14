@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/aog2026/layout,_N_T_/aog2026/page,_N_T_/aog2026"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/aog2026/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/c5f9ce854865b7e9fce4eae8a855ae1d5e8d426d9078d9c7738d5daa80142a67/$/aog2026",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/aog2026/page"
+    },
+    "isFallback": false
+  }
+}

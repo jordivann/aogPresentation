@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/como-trabajamos/layout,_N_T_/como-trabajamos/page,_N_T_/como-trabajamos"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/como-trabajamos/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/fb59f8e2685a900f4d33de138fea03c824d07413dff783fed992d1dff1a9f9e0/$/como-trabajamos",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/como-trabajamos/page"
+    },
+    "isFallback": false
+  }
+}
