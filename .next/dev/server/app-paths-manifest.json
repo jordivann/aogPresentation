@@ -1,10 +1,3 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/aog2026/page": "app/aog2026/page.js",
-  "/como-trabajamos/page": "app/como-trabajamos/page.js",
-  "/contacto/page": "app/contacto/page.js",
-  "/crucetas/page": "app/crucetas/page.js",
-  "/page": "app/page.js",
-  "/premoldeados/page": "app/premoldeados/page.js",
-  "/soluciones/page": "app/soluciones/page.js"
+  "/contacto/page": "app/contacto/page.js"
 }
